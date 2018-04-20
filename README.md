@@ -1,4 +1,4 @@
-# Google Spreadhsheet Api - Append
+# Google Spreadsheet Api - Append
 
 A [Supercode](http://gosupercode.com) function that appends google spreadsheet data.
 
